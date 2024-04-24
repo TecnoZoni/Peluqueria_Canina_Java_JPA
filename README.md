@@ -3,7 +3,7 @@
 Proyecto de práctica del curso de TodoCode Academy, un CRUD hecho con JPA y Base de Datos MySQL.
 
 En él puse en práctica los conocimientos obtenidos del curso en:
-- Manejo de interfaces y tablas en Swift
+- Manejo de interfaces y tablas en swing
 - Programación orientada a Objetos
 - Java Persistence API (JPA)
 - Bases de Datos MySQL
